@@ -21,3 +21,21 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.product-page {
+  width: 80%;
+  height: 80vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-left: 2px solid rgb(136, 241, 241);
+  border-right: 2px solid rgb(54, 151, 35);
+  padding: 5px;
+}
+
+.space-form {
+  display: flex;
+  justify-content: space-between;
+}
